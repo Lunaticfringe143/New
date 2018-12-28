@@ -1,0 +1,32 @@
+# Eclipse project files
+*.classpath*
+*.project*
+*.settings*
+*.recommenders*
+*.factorypath*
+
+*.metadata/*
+.gitconfig*
+logs/
+*/thread-dump-*.txt
+
+# Vim temporary files
+*.swp
+
+.DS_Store
+
+#IntelliJ files
+.idea
+*.iml
+
+
+# build target directories
+**/target/
+**/bin/
+
+# VS Code files
+.project
+**/.project
+**/.classpath
+**/.settings/
+/.metadata/
